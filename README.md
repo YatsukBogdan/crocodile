@@ -1,5 +1,6 @@
-# crocodile
- Android app
+# Crocodile Android Application
+# Team
+-----------
  Kozhokar ClientApp
  Yatsuk ClienGUI
  Lebodkin ServerApp 
