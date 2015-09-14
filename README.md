@@ -4,5 +4,5 @@
  Kozhokar ClientApp
  Yatsuk ClienGUI
  Lebodkin ServerApp 
- Patsyk ServerGUI
+ Patsiuk ServerGUI
 ```
